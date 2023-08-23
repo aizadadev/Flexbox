@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.container .about {
+    font-weight: bold;
+    font-size: large;
+}
+.about ul li {
+    padding-bottom: 5px;
+}  
+.container2 {
+    display: flex;
+}
+.osh  {
+   padding-top: 50px;
+   padding-right: 20px;
+}
+.kg h2 {
+    text-align: center;
+}
+.visit {
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.container3 h2 {
+    text-align: center;
+}
